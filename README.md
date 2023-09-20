@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   
 # Jiyoon Kim
 Will be backend developer! 🐥
