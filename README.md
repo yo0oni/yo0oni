@@ -3,7 +3,6 @@
 # Jiyoon Kim
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yo0oni&show_icons=true&theme=onedark)
 <br>
-[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=rlawldbs0911)](https://solved.ac/rlawldbs0911)
 
 
 ## ⚙️ Tech Stack
